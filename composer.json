@@ -17,11 +17,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"Penn\\CosignSSOBundle" : [
-				"DependencyInjection",
-				"Resources",
-				"Security"
-			]
+			"Penn\\CosignSSOBundle\\" : ""
 		}
 	},
 	"repositories" : [{
