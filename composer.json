@@ -18,9 +18,8 @@
     },
 
     "autoload": {
-        "psr-0": { 
+        "psr-4": { 
             "Penn\\CosignSSOBundle": ""
         }
-    },
-    "target-dir": "Penn/CosignSSOBundle"
+    }
 }
