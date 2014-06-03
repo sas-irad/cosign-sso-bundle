@@ -28,6 +28,10 @@
 			"type" : "git",
 			"url" : "https://github.com/sas-irad/cosign-sso-bundle/archive/v0.1.zip",
 			"name" : "0.1"
+		}, {
+			"type" : "git",
+			"url" : "https://github.com/sas-irad/cosign-sso-bundle/archive/v0.2.zip",
+			"name" : "0.2"
 		}
 	]
 }
