@@ -1,6 +1,6 @@
 <?php
 
-namespace Penn\CosignSSOBundle\Security\Firewall;
+namespace SAS\IRAD\CosignSSOBundle\Security\Firewall;
 
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpKernel\Event\GetResponseEvent;
@@ -8,7 +8,7 @@ use Symfony\Component\Security\Http\Firewall\ListenerInterface;
 use Symfony\Component\Security\Core\Exception\AuthenticationException;
 use Symfony\Component\Security\Core\SecurityContextInterface;
 use Symfony\Component\Security\Core\Authentication\AuthenticationManagerInterface;
-use Penn\CosignSSOBundle\Security\Authentication\Token\CosignSSOUserToken;
+use SAS\IRAD\CosignSSOBundle\Security\Authentication\Token\CosignSSOUserToken;
 
 class CosignSSOListener implements ListenerInterface {
     

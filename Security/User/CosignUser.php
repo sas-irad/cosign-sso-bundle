@@ -1,6 +1,6 @@
 <?php
 
-namespace Penn\CosignSSOBundle\Security\User;
+namespace SAS\IRAD\CosignSSOBundle\Security\User;
 
 use Symfony\Component\Security\Core\User\UserInterface;
 

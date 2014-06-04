@@ -1,6 +1,6 @@
 <?php
 
-namespace Penn\CosignSSOBundle\Security\Authentication\Token;
+namespace SAS\IRAD\CosignSSOBundle\Security\Authentication\Token;
 
 use Symfony\Component\Security\Core\Authentication\Token\AbstractToken;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Penn\CosignSSOBundle\Security\User;
+namespace SAS\IRAD\CosignSSOBundle\Security\User;
 
 use Symfony\Component\Security\Core\User\UserProviderInterface;
 use Symfony\Component\Security\Core\User\UserInterface;
@@ -24,7 +24,7 @@ class CosignUserProvider implements UserProviderInterface {
     }
     
     public function supportsClass($class) {
-        return $class === 'namespace Penn\CosignSSOBundle\Security\CosignUser';
+        return $class === 'namespace SAS\IRAD\CosignSSOBundle\Security\CosignUser';
     }
     
 }

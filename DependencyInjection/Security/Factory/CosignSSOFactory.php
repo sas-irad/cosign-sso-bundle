@@ -1,6 +1,6 @@
 <?php
 
-namespace Penn\CosignSSOBundle\DependencyInjection\Security\Factory;
+namespace SAS\IRAD\CosignSSOBundle\DependencyInjection\Security\Factory;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Reference;

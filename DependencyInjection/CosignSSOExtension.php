@@ -1,6 +1,6 @@
 <?php
 
-namespace Penn\CosignSSOBundle\DependencyInjection;
+namespace SAS\IRAD\CosignSSOBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

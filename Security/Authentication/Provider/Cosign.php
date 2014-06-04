@@ -1,6 +1,6 @@
 <?php
 
-namespace Penn\CosignSSOBundle\Security\Authentication\Provider;
+namespace SAS\IRAD\CosignSSOBundle\Security\Authentication\Provider;
 
 Class Cosign {
 

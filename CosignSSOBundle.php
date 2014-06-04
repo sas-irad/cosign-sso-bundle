@@ -1,10 +1,10 @@
 <?php
 
-namespace Penn\CosignSSOBundle;
+namespace SAS\IRAD\CosignSSOBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
-use Penn\CosignSSOBundle\DependencyInjection\Security\Factory\CosignSSOFactory;
+use SAS\IRAD\CosignSSOBundle\DependencyInjection\Security\Factory\CosignSSOFactory;
 
 class CosignSSOBundle extends Bundle {
     
